@@ -23,7 +23,6 @@ Fundamentals of microwave and RF circuit analysis, design and measurements; Gene
 ### ECE 675 - Radiation & Propagation of Electromagnetic Fields
 Mathematics of time varying electromagnetic fields, linear antennas self and mutual impedance, aperture antenna, wave diffraction theory, geometrical theory of diffraction (GTD).  Taught by Omar Ramahi.
 
-
 # Undergraduate Courses
 ## Spring 2022
 ### EASIA 202R - Chinese Culture and Society

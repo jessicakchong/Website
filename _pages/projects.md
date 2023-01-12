@@ -18,13 +18,13 @@ Supervised by: Prof. George Shaker, Prof. Stefan Idziak <br />
 
 ## Course Projects
 ### Fundamentals of Stokes Flows and their Applications
-***AMATH 361 Winter 2022 Final Project***
+***AMATH 361 Winter 2022 Final Project*** <br />
 Consider the fast-growing field of microfluidics, where there is a wide range of promising potential applications such as food quality and safety. With its small form factor and sensitivity, it is possible to implement a microfluidic chip for the in-line real-time monitoring and detection of pathogens during transport and through-out the pasteurization process of foods as well as finished products. It is also possible to develop it as a portable biosensor. Oftentimes the conventional colony counting method is used for detection of harmful microorganisms and it takes several days to cultivate them. Thus, there is a need for a more rapid method of detection. In order to understand how to implement such a device, it is important to understand how microorganisms swim and how fluid flows at a micro- and nanoscopic level, which can be studied by examining Stokes flow equations.
 
 ### Superconductivity and the Meissner Effect
-***PHYS 335 Winter 2021 Chapter Summary Project***
+***PHYS 335 Winter 2021 Chapter Summary Project*** <br />
 A self-study chapter project in the PHYS 335 (Condensed Matter) using the textbook written by Kittel. For this project, I chose to study Chapter 10 of Kittel on Superconductivity.
 
 ### Hamilton-Jacobi Formalism in Classical Mechanics
-***AMATH 456 Fall 2020 Term Project***
+***AMATH 456 Fall 2020 Term Project*** <br />
 As part of the AMATH 456 (Calculus of Variations) course, we had to do a group project that involved writing about a self-study topic as an extension to our current course notes.  We wrote about the theory of Hamiltonian dynamics, a derivation of the Hamilton-Jacobi equation, and solution methods while expanding on the topics we covered in the course.  We applied the Hamilton-Jacobi method to the Simple Harmonic Oscillator and Kepler's Problem, then compared them to their Lagrangian solutions.

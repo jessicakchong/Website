@@ -17,3 +17,6 @@ Hi!  My name is Jessica and I am currently pursuing a Masters of Applied Science
 ## Research Interests
 
 My research interests include Electromagnetism, Microwave Sensing, Predictive Modelling, and RF/Microwave Engineering.
+Supervisors:  Prof. George Shaker (Wireless Sensors and Devices Lab), Prof. Lan Wei (Waterloo Emerging Integrated Systems Group)
+
+In my senior undergraduate research project, I studied the dielectric characterization and microwave sensing of fat concentration in milk under the supervision of Prof. George Shaker and Prof. Stefan Idziak.

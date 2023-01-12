@@ -3,6 +3,9 @@ main:
   - title: "Courses"
     url: /courses/
     
+  - title: "Graduate Courses"
+    url: /graduate/
+    
   - title: "Projects"
     url: /projects/
 

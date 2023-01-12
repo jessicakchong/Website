@@ -10,7 +10,7 @@ A list of courses that I've taken at the University of Waterloo from most recent
 
 # Graduate Courses
 
-## Winter 2023
+## Winter 2023 (Ongoing)
 ##### ECE 730 - Topic: Biosensing: Fundamentals & Applications
 The objective of the course is to impart knowledge needed to evaluate a proposed biosensing technology.  In this course, an introduction to the field of biosensors and an in-depth and quantitative view of device design and performance analysis will be given.  Biosensors are defined as self-contained integrated devices capable of providing analytical information, using a biological recognition element in conjunction with a secondary transduction element. Students will be introduced to different biosensing techniques, such as electrical biosensors, electrochemical biosensors, and optical biosensors with an emphasis on biomedical and environmental applications. The general principles of sampling and analysis, statistical presentation, and manipulation of data will be also presented. Students will also learn about the continuous and real-time biosensors, such as continuous glucose monitoring (CGM) devices.  Taught by Mahla Poudineh.
 

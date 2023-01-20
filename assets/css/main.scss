@@ -39,3 +39,24 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Added custom code */
+body::-webkit-scrollbar {
+width: 12px;
+}
+
+body::-webkit-scrollbar-track {
+background: white;
+}
+
+body::-webkit-scrollbar-thumb {
+background-color: rgba(0,0,0,0.2);
+}
+.card {
+box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+transition: 0.3s;
+padding: 5px 20px;
+}
+.card:hover {
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}

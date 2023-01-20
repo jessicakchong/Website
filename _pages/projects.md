@@ -14,7 +14,7 @@ A list of current and completed projects.
 
 # Graduate Course Projects
 ## ECE 730 Biosensing Project (Ongoing, TBD)
-***ECE 730 winter 2023 Final Project***
+***ECE 730 Winter 2023 Final Project***
 
 ## ECE 770 Radio and Wireless Systems Project (Ongoing, TBD)
 ***ECE 770 Winter 2023 Final Project***

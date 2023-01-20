@@ -5,6 +5,8 @@ author_profile: true
 
 ---
 
+A list of current and completed projects.
+
 # PHYS 437 Projects
 ## [Effect of Milk Fat Content on Dielectric Properties at 200 MHz - 20 GHz](https://github.com/jessicakchong/PHYS437Project/blob/main/PHYS%20437B%20Report%20(Jessica%20Chong).pdf)
 ***PHYS 437B Winter 2022 Research Project Course Continued*** <br />

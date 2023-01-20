@@ -7,6 +7,18 @@ author_profile: true
 
 A list of current and completed projects.
 
+# Graduate Projects
+## Simulation of Liquid Characterization in HFSS (Ongoing)
+
+## Improving Sensitivity of Frequency Modulated Continuous Wave Radar Transmission Signal using Gallium-Nitride-based Power Amplifier (Ongoing)
+
+# Graduate Course Projects
+## ECE 730 Biosensing Project (Ongoing, TBD)
+***ECE 730 winter 2023 Final Project***
+
+## ECE 770 Radio and Wireless Systems Project (Ongoing, TBD)
+***ECE 770 Winter 2023 Final Project***
+
 # PHYS 437 Projects
 ## [Effect of Milk Fat Content on Dielectric Properties at 200 MHz - 20 GHz](https://github.com/jessicakchong/PHYS437Project/blob/main/PHYS%20437B%20Report%20(Jessica%20Chong).pdf)
 ***PHYS 437B Winter 2022 Research Project Course Continued*** <br />

@@ -2,7 +2,6 @@
 title: "Characterization and Sensing of Milk Fat% in the Low GHz Band"
 collection: publications
 permalink: /publication/2022-characterization-and-sensing-of-milk-fat/
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022
 venue: 'IEEE AP-S/URS'
 

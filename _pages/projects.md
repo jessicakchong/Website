@@ -7,7 +7,11 @@ author_profile: true
 
 A list of current and completed projects.
 
-## 
+## Non-Invasive Quality Control Monitoring of Packaged Food/Fluid using Wireless Radar Sensors
+***May 2021 - Present***
+
+## MVSG Compact Model Gummel Symmetry Discontinuity Issue
+***January 2023 - Present***
 
 # Graduate Course Projects
 ## Rapid Detection of Covid-19 Using Transistor-based Biosensors

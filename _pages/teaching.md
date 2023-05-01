@@ -8,7 +8,7 @@ author_profile: true
 ### Electricity and Magnetism (ECE 106) Lab Teaching Assistant
 Undergraduate Course, *University of Waterloo*, *Electrical and Computer Engineering*, May 2023 - August 2023
 
-### Electronic Circuits (ECE 240) Lab Teaching Assistant
+### [Electronic Circuits (ECE 240) Lab Teaching Assistant](https://github.com/jessicakchong/jessicakchong.github.io/blob/master/files/ECE240%20W2023%20course%20outline.pdf)
 Undergraduate Course, *University of Waterloo*, *Electrical and Computer Engineering*, January 2023 - April 2023
 
 ### High School Math and Physics Teaching Assistant

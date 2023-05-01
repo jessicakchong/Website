@@ -1,21 +1,17 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "Course Projects"
 author_profile: true
 
 ---
 
-A list of current and completed projects.
-
-## Non-Invasive Quality Control Monitoring of Packaged Food/Fluid using Wireless Radar Sensors
-***May 2021 - Present***
-
-## MVSG Compact Model Gummel Symmetry Discontinuity Issue
-***January 2023 - Present***
+A list of current and completed course projects.
 
 # Graduate Course Projects
-## Rapid Detection of Covid-19 Using Transistor-based Biosensors
+## [Rapid Detection of Covid-19 Using Transistor-based Biosensors](https://github.com/jessicakchong/ECE730Biosensing/blob/main/ECE%20730%20Project%20(Jessica%20Chong).pdf)
 ***ECE 730 (Biosensing:  Fundamentals and Applications) Winter 2023 Final Project*** <br />
+In ECE 730, we had to complete a final project on a biosensing topic of our choosing.  For this project, I chose to learn about the rapid detection of COVID-19 using transistor-based biosensors.  In this project, I was briefly introduced to different types of channel materials used in field effect transistors for the detection of COVID-19, such as graphene, silicon nanowires, and tungstein diselenide.  The report is comprised of a literature review section, current challenges in the field, and an opinionated future research direction/mini-proposal.
+
 
 ## Design and Analysis of an LTE RF Uplink
 ***ECE 770 (Radio and Wireless Systems) Winter 2023 Final Project*** <br />

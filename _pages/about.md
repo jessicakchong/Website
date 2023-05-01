@@ -17,6 +17,6 @@ Hi!  My name is Jessica and I am currently pursuing a Masters of Applied Science
 ## Research Interests
 
 My research interests include Electromagnetics and Radar Systems.  I am working on multiphysics simulations for electromagnetic and thermal analysis for radar systems as part of my Masters thesis.<br />
-Supervisors:  Prof. George Shaker (Wireless Sensors and Devices Lab), Prof. Lan Wei (Waterloo Emerging Integrated Systems Group)
+Supervisors:  [Prof. George Shaker](https://uwaterloo.ca/electrical-computer-engineering/profile/gshaker) ([Wireless Sensors and Devices Lab](https://uwaterloo.ca/wireless-sensors-and-devices-lab/)), [Prof. Lan Wei](https://uwaterloo.ca/electrical-computer-engineering/profile/l28wei) ([Waterloo Emerging Integrated Systems Group](https://uwaterloo.ca/waterloo-emerging-integrated-systems-group/))
 
-In my senior undergraduate research project, I studied the dielectric characterization and microwave sensing of fat concentration in milk under the supervision of Prof. George Shaker and Prof. Stefan Idziak.
+In my senior undergraduate research project, I studied the dielectric characterization and microwave sensing of fat concentration in milk under the supervision of Prof. George Shaker and [Prof. Stefan Idziak](https://uwaterloo.ca/physics-astronomy/people-profiles/stefan-idziak).

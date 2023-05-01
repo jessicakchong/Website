@@ -3,7 +3,8 @@ permalink: /courses/
 title: "Courses"
 author_profile: true
 has_children: true
-
+sidebar:
+  nav: "courses"
 ---
 
 A list of courses that I've taken at the University of Waterloo from most recent to oldest.  Course descriptions taken from the corresponding academic calendar for that year.

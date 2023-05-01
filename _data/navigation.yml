@@ -17,3 +17,9 @@ main:
     
   - title: "TA"
     url: /teaching/
+
+courses:
+  - title: Graduate Courses
+    children:
+      - title: "Winter 2023"
+        url: /courses/#winter-2023

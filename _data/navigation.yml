@@ -25,7 +25,8 @@ courses:
         url: /courses/#spring-2023
       - title: "Winter 2023"
         url: /courses/#winter-2023
-      - title: /courses/#fall-2022
+      - title: "Fall 2022"
+        url: /courses/#fall-2022
       
   - title: Undergraduate Courses
     children:

@@ -21,5 +21,35 @@ main:
 courses:
   - title: Graduate Courses
     children:
+      - title: "Spring 2023"
+        url: /courses/#spring-2023
       - title: "Winter 2023"
         url: /courses/#winter-2023
+      - title: /courses/#fall-2022
+      
+  - title: Undergraduate Courses
+    children:
+      - title: "Spring 2022"
+        url: /courses/#spring-2022
+      - title: "Winter 2022"
+        url: /courses/#winter-2022
+      - title: "Fall 2021"
+        url: /courses/#fall-2021
+      - title: "Winter 2021"
+        url: /courses/#winter-2021
+      - title: "Fall 2020"
+        url: /courses/#fall-2020
+      - title: "Spring 2020"
+        url: /courses/#spring-2020
+      - title: "Winter 2020"
+        url: /courses/#winter-2020
+      - title: "Fall 2019"
+        url: /courses/#fall-2019
+      - title: "Winter 2019"
+        url: /courses/#winter-2019
+      - title: "Fall 2018"
+        url: /courses/#fall-2018
+      - title: "Winter 2018"
+        url: /courses/#winter-2018
+      - title: "Fall 2017"
+        url: /courses/#fall-2017

@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Experiences"
+    url: /experiences/
+    
+  - title: "Graduate"
+    url: /graduate/
+
   - title: "Courses"
     url: /courses/
     
@@ -8,3 +14,6 @@ main:
 
   - title: "Publications"
     url: /publications/
+    
+  - title: "Teaching Assistantships"
+    url: /teaching/

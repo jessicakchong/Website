@@ -1,7 +1,7 @@
 ---
 permalink: /courses/
 title: "Courses"
-author_profile: true
+author_profile: false
 has_children: true
 sidebar:
   nav: "courses"

@@ -12,6 +12,7 @@ author_profile: true
 ## Work Experience
 
 ### [Graduate Teaching Assistant](/teaching/)
+*University of Waterloo*, January 2023 - Present
 
 ### [Graduate Research Assistant](/graduate/)
 *University of Waterloo*, September 2022 - Present

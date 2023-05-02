@@ -5,11 +5,11 @@ author_profile: true
 
 ---
 
-# Education
+## Education
 - B.Sc. in Mathematical Physics, University of Waterloo, 2022
 - M.ASc. in Electrical and Computer Engineering, University of Waterloo, 2024 (expected)
 
-# Work Experience
+## Work Experience
 
 ### [Graduate Teaching Assistant](/teaching/)
 
@@ -31,7 +31,7 @@ author_profile: true
 ### Plant Administrative Clerk
 *Saputo*, December 2018 - August 2019
 
-# Volunteer Experience
+## Volunteer Experience
 
 ### Science Society Peer Mentor
 *University of Waterloo Science Society*, September 2020 - April 2021

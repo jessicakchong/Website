@@ -5,8 +5,12 @@ author_profile: true
 
 ---
 
+# 2023
+
 ### Comprehensive MVSG Compact Model for Power GaN Devices (IEEE ISPSD 2023)
 Ryan Fang, Yijing Feng, Jessica Chong, Kaiman Chan, Ujwal Radhakrishna, Lan Wei
+
+# 2022
 
 ### Characterization and Sensing of Milk Fat% in the Low GHz Band (IEEE AP-S/URS 2022)
 Ala Eldin Omer, Jessica Chong, Lisa Chen, George Shaker

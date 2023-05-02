@@ -16,6 +16,9 @@ author_profile: true
 ### [Graduate Research Assistant](/graduate/)
 *University of Waterloo*, September 2022 - Present
 
+### Math and Physics Teaching Assistant
+*Sylvan Learning*, May 2022 - August 2022
+
 ### Undergraduate Research Assistant
 *University of Waterloo*, May 2021 - April 2022
 
@@ -29,3 +32,15 @@ author_profile: true
 *Saputo*, December 2018 - August 2019
 
 # Volunteer Experience
+
+### Science Society Peer Mentor
+*University of Waterloo Science Society*, September 2020 - April 2021
+
+### Residence Council Student Representative
+*University of Waterloo*, September 2019 - March 2020
+
+### Physics Interconnected Undergraduate Physics Mentor
+*University of Waterloo*, September 2019 - March 2020
+
+### Second Year Mathematical Physics Representative
+*University of Waterloo*, March 2019

@@ -5,6 +5,8 @@ author_profile: true
 
 ---
 
+A mini resume.
+
 ## Education
 - B.Sc. in Mathematical Physics, University of Waterloo, 2022
 - M.ASc. in Electrical and Computer Engineering, University of Waterloo, 2024 (expected)

@@ -5,6 +5,8 @@ author_profile: true
 
 ---
 
+A list of publications.
+
 ## 2023
 
 ### Comprehensive MVSG Compact Model for Power GaN Devices (IEEE ISPSD 2023)

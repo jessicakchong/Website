@@ -15,6 +15,7 @@ In ECE 730, we had to complete a final project on a biosensing topic of our choo
 
 ## Design and Analysis of an LTE RF Uplink
 ***ECE 770 (Radio and Wireless Systems) Winter 2023 Final Project*** <br />
+(Project Manual) The objective of the project is to design an LTE transceiver link for 4G wireless systems using SystemVue simulation engine. The design of the transceiver will include providing the required specifications for all the RF/analog blocks in the transmitter and receiver, e.g., NF, gain, linearity and etc. The uplink is the communication link from mobile user to the base-station and downlink is the communication link from base-station to the mobile user. The LTE link operates in FDD mode where uplink and downlink transceiver operate at 1.92 − 1.98 GHz and 2.11 − 2.17 GHz respectively. The channel bandwidth can be 5, 10, 15 and 20 MHz.
 
 # PHYS 437 Projects
 ## [Effect of Milk Fat Content on Dielectric Properties at 200 MHz - 20 GHz](https://github.com/jessicakchong/PHYS437Project/blob/main/PHYS%20437B%20Report%20(Jessica%20Chong).pdf)
@@ -27,7 +28,7 @@ Supervised by: Prof. George Shaker, Prof. Stefan Idziak <br />
 Supervised by: Prof. George Shaker, Prof. Stefan Idziak <br />
 (Abstract)  With recent developments in technology, the low-cost and non-invasive monitoring of food quality has been a popular subject of study.  The dielectric properties of various concentrations of salt and sugar dissolved in distilled water are measured using an open-ended coaxial probe technique over the frequency range 200 MHz to 10 GHz.  The conducted literature survey indicates a decrease in the value of the dielectric constant and an increase of the dielectric loss with an increase in concentration over this frequency range.  Since the dielectric properties vary, the survey indicates that it is possible to develop a radar that can accurately detect these concentrations and the slight variances in a food product.  Inconsistent results have been achieved using the DAK-TL 3.5 probe that show drastically opposite trends of theoretical values.
 
-# Course Projects
+# Undergraduate Course Projects
 ## Fundamentals of Stokes Flows and their Applications
 ***AMATH 361 Winter 2022 Final Project*** <br />
 Consider the fast-growing field of microfluidics, where there is a wide range of promising potential applications such as food quality and safety. With its small form factor and sensitivity, it is possible to implement a microfluidic chip for the in-line real-time monitoring and detection of pathogens during transport and through-out the pasteurization process of foods as well as finished products. It is also possible to develop it as a portable biosensor. Oftentimes the conventional colony counting method is used for detection of harmful microorganisms and it takes several days to cultivate them. Thus, there is a need for a more rapid method of detection. In order to understand how to implement such a device, it is important to understand how microorganisms swim and how fluid flows at a micro- and nanoscopic level, which can be studied by examining Stokes flow equations.

@@ -5,6 +5,8 @@ author_profile: true
 
 ---
 
+A list of current and held teaching positions.
+
 ## 2023
 
 ### Electricity and Magnetism (ECE 106) Lab Teaching Assistant

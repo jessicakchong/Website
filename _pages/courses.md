@@ -12,9 +12,6 @@ A list of courses that I've taken at the University of Waterloo from most recent
 # Graduate Courses
 
 ## Spring 2023
-### ECE 659 - Intelligent Sensors & Wireless Sensor Networks
-This course is concerned with recent developments in intelligent sensors and wireless sensor networks. This course will introduce students to diverse fundamental issues encountered in designing and analyzing intelligent sensors and sensor networks (mobile and stationary), with emphasis on mission critical applications.
-
 ### ECE 770 - Topic:  Radio-Wave Systems
 Review of Maxwell's equations and uniform plane waves. Electromagnetic wave propagation, reflection and transmission through different uniform media, metallic waveguides, multilayer structures, radiation theory, transmitting and receiving antenna, antenna arrays and applications, simple radio-wave propagation models, radio transmission systems and wireless networks.
 

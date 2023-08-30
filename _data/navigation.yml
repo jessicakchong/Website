@@ -2,9 +2,6 @@
 main:
   - title: "Experiences"
     url: /experiences/
-    
-  - title: "Graduate"
-    url: /graduate/
 
   - title: "Courses"
     url: /courses/

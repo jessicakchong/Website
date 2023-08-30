@@ -9,7 +9,7 @@ A list of publications.
 
 ## 2023
 
-### Comprehensive MVSG Compact Model for Power GaN Devices (IEEE ISPSD 2023)
+### [Comprehensive MVSG Compact Model for Power GaN Devices (IEEE ISPSD 2023)](https://ieeexplore-ieee-org.proxy.lib.uwaterloo.ca/document/10147658)
 ***2023 35th International Symposium on Power Semiconductor Devices and ICs (ISPSD)*** <br />
 Ryan Fang, Yijing Feng, Jessica Chong, Kaiman Chan, Ujwal Radhakrishna, Lan Wei
 
@@ -17,7 +17,7 @@ Ryan Fang, Yijing Feng, Jessica Chong, Kaiman Chan, Ujwal Radhakrishna, Lan Wei
 
 ## 2022
 
-### Characterization and Sensing of Milk Fat% in the Low GHz Band
+### [Characterization and Sensing of Milk Fat% in the Low GHz Band](https://ieeexplore-ieee-org.proxy.lib.uwaterloo.ca/document/9886211)
 ***2022 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)*** <br/>
 Ala Eldin Omer, Jessica Chong, Lisa Chen, George Shaker
 

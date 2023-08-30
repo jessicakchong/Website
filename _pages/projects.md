@@ -9,15 +9,14 @@ A list of current and completed course projects.
 
 # Graduate Course Projects
 ## [Microstrip Patch Array for GPS Application](https://github.com/jessicakchong/ECE770Antenna/blob/main/ECE%20770%20Antenna%20Project%20(Jessica%20Chong).pdf)
+***ECE 770 (Radio-Wave Systems) Spring 2023 Final Project*** <br/ >
 The project for this course required us to design a low-profile, upward-facing transmitting antenna operating at 1.575 GHz in Ansys HFSS and should consider gain, efficiency, VSWR, and bandwidth.  For this project, I chose to design a 2x2 microstrip patch array out of copper placed onto a RO4003 substrate.  For this array, I created a feed network to feed into two parallel patches with another two patches connected to them in series.
-
 
 ## [Rapid Detection of Covid-19 Using Transistor-based Biosensors](https://github.com/jessicakchong/ECE730Biosensing/blob/main/ECE%20730%20Project%20(Jessica%20Chong).pdf)
 ***ECE 730 (Biosensing:  Fundamentals and Applications) Winter 2023 Final Project*** <br />
 In ECE 730, we had to complete a final project on a biosensing topic of our choosing.  For this project, I chose to learn about the rapid detection of COVID-19 using transistor-based biosensors.  In this project, I was briefly introduced to different types of channel materials used in field effect transistors for the detection of COVID-19, such as graphene, silicon nanowires, and tungstein diselenide.  The report is comprised of a literature review section, current challenges in the field, and an opinionated future research direction/mini-proposal.
 
-
-## Design and Analysis of an LTE RF Uplink
+## [Design and Analysis of an LTE RF Uplink](https://github.com/jessicakchong/ECE770Radio/blob/main/ECE%20770%20Radio%20Project%20(Jessica%20Chong).pdf)
 ***ECE 770 (Radio and Wireless Systems) Winter 2023 Final Project*** <br />
 (Project Manual) The objective of the project is to design an LTE transceiver link for 4G wireless systems using SystemVue simulation engine. The design of the transceiver will include providing the required specifications for all the RF/analog blocks in the transmitter and receiver, e.g., NF, gain, linearity and etc. The uplink is the communication link from mobile user to the base-station and downlink is the communication link from base-station to the mobile user. The LTE link operates in FDD mode where uplink and downlink transceiver operate at 1.92 − 1.98 GHz and 2.11 − 2.17 GHz respectively. The channel bandwidth can be 5, 10, 15 and 20 MHz.
 

@@ -10,7 +10,8 @@ A list of current and held teaching positions.
 ## 2023
 
 ### Electromagnetism (NE 241) Teaching Assistant
-*University of Waterloo*, *Electrical and Computer Engineering*, September 2023 - December 2023
+*University of Waterloo*, *Electrical and Computer Engineering/Nanotechnology Engineering*, September 2023 - December 2023
+
 (Course Description) Coulomb's law, electric field and electric flux, Gauss's law, electric potential, potential and field, magnetic field, Ampere's law, solenoid, electromagnetic induction, magnetic flux, Lenz' law, Faraday's law, capacitors and capacitance, inductors and inductance, Maxwell's equations, electromagnetic fields and waves, polarization.
 
 ### [Electricity and Magnetism (ECE 106) Lab Teaching Assistant](https://github.com/jessicakchong/jessicakchong.github.io/blob/master/files/Course%20Outline%20-%20Electricity%20and%20Magnetism.pdf)

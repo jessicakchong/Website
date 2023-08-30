@@ -11,9 +11,16 @@ A list of courses that I've taken at the University of Waterloo from most recent
 
 # Graduate Courses
 
+## Fall 2023
+### MTE 421 - Linear and Nonlinear Electronics
+The performance of single, differential, and multistage amplifiers. The cascode configuration, current mirror and active loads. A detailed study of operational amplifier circuits. Transistor frequency response analysis. Feedback circuit configurations and oscillators. A detailed study of stability and compensation for multistage and operational amplifiers. Introduction to common circuit blocks; A/D (analog-to-digital) converters, D/A (digital-to-analog) converters, and phase-locked loops.  Taught by Derek Wright.
+
+### ECE 630 - Physics and Models of Semiconductor Devices
+Basics of semiconductor physics. Physical principles and operation of p-n junctions, metal/semidconductor contacts, MOS capacitors, MOS field-effect transistors, and related optoelectronic devices. Short-channel MOSFETs, modern MOSFETs, and future transistor technologies. Introduction to device simulators and SPICE models.  Taught by Michael Reimer.
+
 ## Spring 2023
 ### ECE 770 - Topic:  Radio-Wave Systems
-Review of Maxwell's equations and uniform plane waves. Electromagnetic wave propagation, reflection and transmission through different uniform media, metallic waveguides, multilayer structures, radiation theory, transmitting and receiving antenna, antenna arrays and applications, simple radio-wave propagation models, radio transmission systems and wireless networks.
+Review of Maxwell's equations and uniform plane waves. Electromagnetic wave propagation, reflection and transmission through different uniform media, metallic waveguides, multilayer structures, radiation theory, transmitting and receiving antenna, antenna arrays and applications, simple radio-wave propagation models, radio transmission systems and wireless networks.  Taught by Omar Ramahi.
 
 ## Winter 2023
 ### ECE 730 - Topic: Biosensing: Fundamentals & Applications
